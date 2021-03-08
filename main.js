@@ -9,6 +9,9 @@
 
   let startTime;
 
+  function countUp() {
+    console.log(Date.now() - startTime);
+  }
   start.addEventListener('click', () => {
     startTime = Date.now();
     countUp();
