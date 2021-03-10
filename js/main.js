@@ -29,7 +29,7 @@
 
   stop.addEventListener('click', () => {
     clearTimeout(timeoutId);
-    elapsedTime = Date.now() - startTime;
+    elapsedTime += Date.now() - startTime;
   });
 
   reset.addEventListener('click', () => {
