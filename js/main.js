@@ -34,5 +34,6 @@
 
   reset.addEventListener('click', () => {
     timer.textContent = '00:00:000';
+    elapsedTime = 0;
   });
 }
