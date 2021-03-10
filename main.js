@@ -11,7 +11,12 @@
 
   function countUp() {
     console.log(Date.now() - startTime);
+    const  d = new Date(Date.now() - startTime);
+    setTimeout(() => {
+      countUp();
+    }, 10);
   }
+
   start.addEventListener('click', () => {
     startTime = Date.now();
     countUp();
