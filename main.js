@@ -11,7 +11,10 @@
 
   function countUp() {
     console.log(Date.now() - startTime);
-    const  d = new Date(Date.now() - startTime);
+    const d = new Date(Date.now() - startTime);
+    const m = d.getMinutes();
+    const s = d.getSeconds();
+    const ms = d.getMilliseconds(); 
     setTimeout(() => {
       countUp();
     }, 10);
