@@ -43,13 +43,16 @@
   setButtonStateInitial();
 
   start.addEventListener('click', () => {
+    if (start.classList.contains('inactive') === true) {
+      return;
+    }
     setButtonStateRunning();
     startTime = Date.now();
     countUp();
   });
 
   stop.addEventListener('click', () => {
-    if (stop.classList.contains('inactive')=== true){
+    if (stop.classList.contains('inactive')=== true) {
       return;
     }
     setButtonStateStopped();
