@@ -49,12 +49,18 @@
   });
 
   stop.addEventListener('click', () => {
+    if (stop.classList.contains('inactive')=== true){
+      return;
+    }
     setButtonStateStopped();
     clearTimeout(timeoutId);
     elapsedTime += Date.now() - startTime;
   });
 
   reset.addEventListener('click', () => {
+    if (reset.classList.contains('inactive') === true) {
+      return;
+    }
     setButtonStateInitial();
     timer.textContent = '00:00:000';
     elapsedTime = 0;
