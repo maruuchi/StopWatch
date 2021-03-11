@@ -28,3 +28,8 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
