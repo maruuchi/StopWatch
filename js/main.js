@@ -22,6 +22,19 @@
     }, 10);
   }
 
+  function setButtonStateInitial(){
+    start.disabled = false;
+    stop.disabled = true;
+    reset.disabled = true;
+  }
+
+  function setButtonStateRunning() {
+
+  }
+
+  function setButtonStateStopped() {
+
+  }
   start.addEventListener('click', () => {
     startTime = Date.now();
     countUp();
