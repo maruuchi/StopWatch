@@ -23,21 +23,21 @@
   }
 
   function setButtonStateInitial(){
-    start.disabled = false;
-    stop.disabled = true;
-    reset.disabled = true;
+    start.classList.remove('inactive');
+    stop.classList.add('inactive');
+    reset.classList.add('inactive');
   }
 
   function setButtonStateRunning() {
-    start.disabled = true;
-    stop.disabled = false;
-    reset.disabled = true;
+    start.classList.add('inactive');
+    stop.classList.remove('inactive');
+    reset.classList.add('inactive');
   }
 
   function setButtonStateStopped() {
-    start.disabled = false;
-    stop.disabled = true;
-    reset.disabled = false;
+    start.classList.remove('inactive');
+    stop.classList.add('inactive');
+    reset.classList.remove('inactive');
   }
 
   setButtonStateInitial();
