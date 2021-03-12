@@ -30,6 +30,14 @@ body {
   cursor: pointer;
 }
 
+.btn#start{
+  color: red;
+}
+
+.btn#stop {
+  color: blue;
+}
+
 .controls {
   display: flex;
   justify-content: space-between;
