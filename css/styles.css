@@ -33,12 +33,17 @@ body {
 
 .btn#start{
   color: red;
+  border-radius: 10%;
 }
 
 .btn#stop {
   color: blue;
+  border-radius: 10%;
 }
 
+.btn#reset{
+border-radius: 10%;
+}
 .controls {
   display: flex;
   justify-content: space-between;
