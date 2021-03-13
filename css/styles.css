@@ -19,6 +19,7 @@ body {
   font-size: 45px;
   margin-bottom: 15px;
   border-radius: 50%;
+  font-style: inherit;
 }
 
 .btn {
