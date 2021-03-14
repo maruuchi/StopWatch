@@ -4,6 +4,10 @@ body {
   background: #eee;
 }
 
+header {
+  text-align: center;
+}
+
 .container {
   margin: 20px auto;
   width: 270px;
