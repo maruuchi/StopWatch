@@ -58,3 +58,6 @@ border-radius: 10%;
 .inactive {
   opacity: 0.3;
 }
+.reasion {
+  float: right;
+}
