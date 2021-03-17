@@ -11,7 +11,7 @@ header {
 
 .container {
   margin: 20px auto;
-  width: 300px;
+  width: 400px;
   background: #fff;
   padding: 15px;
   text-align: center;
@@ -30,7 +30,7 @@ header {
 }
 
 .btn {
-  width: 80px;
+  width: 100px;
   height: 45px;
   line-height: 45px;
   background: #ddd;
@@ -51,9 +51,11 @@ header {
 .btn#reset{
 border-radius: 10%;
 }
+
 .controls {
   display: flex;
   justify-content: space-between;
+  margin-top: 30px;
 }
 
 .inactive {
