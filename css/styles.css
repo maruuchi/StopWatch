@@ -18,7 +18,7 @@ header {
   margin: 20px auto;
   width: 400px;
   background: #fff;
-  padding: 15px;
+  padding: 25px;
   text-align: center;
   float: left;
   margin-left: 120px;
@@ -69,5 +69,6 @@ border-radius: 10%;
 .reasion {
   float: right;
   margin-right: 160px;
+  padding: 15px;
   background: #fff;
 }
