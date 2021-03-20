@@ -1,7 +1,6 @@
 body {
   font-family: 'Courier New', monospace;
   font-size: 14px;
-  background: #fff;
 }
 
 header {
@@ -9,9 +8,9 @@ header {
   font-size: 30px;
 }
 
-.first {
+main {
   margin-top: 70px;
-  background:rgb(238, 13, 13);
+  background: #eee;
 }
 
 .container {
