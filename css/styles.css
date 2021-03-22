@@ -71,5 +71,6 @@ border-radius: 10%;
   float: right;
   margin-right: 160px;
   padding: 15px;
-  background: #fff;
+  background: #ddd;
+  border-radius: 10px;
 }
