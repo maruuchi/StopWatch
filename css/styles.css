@@ -1,9 +1,10 @@
 body {
   font-family: 'Courier New', monospace;
   font-size: 14px;
+  line-height: 1.9;
 }
 
-header {
+.top-message {
   text-align: center;
   font-size: 34px;
   background: lavender;
