@@ -70,8 +70,7 @@ border-radius: 10%;
   opacity: 0.3;
 }
 .reasion {
-  float: right;
-  margin-right: 160px;
+  margin: 0 20px;
   padding: 15px;
   background: #ddd;
   border-radius: 10px;
