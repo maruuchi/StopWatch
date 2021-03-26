@@ -71,9 +71,14 @@ border-radius: 10%;
 .inactive {
   opacity: 0.3;
 }
+
 .reasion {
   margin: 0 20px;
   padding: 15px;
   border-radius: 10px;
   border: solid 3px #6091d3;
+}
+
+footer .row{
+  background: #fff;
 }
