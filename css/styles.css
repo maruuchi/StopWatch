@@ -8,7 +8,8 @@ body {
 .top-message {
   text-align: center;
   font-size: 34px;
-  background: lavender;
+  color: #fff;
+  background-color: rgb(93, 153, 255);
 }
 
 main {
@@ -75,7 +76,7 @@ border-radius: 10%;
 
 .reasion {
   margin-top: 30px;
-  margin-right: 20px;
+  margin-left: 100px;
   padding: 15px;
   border-radius: 10px;
   border: solid 3px #6091d3;
@@ -100,7 +101,7 @@ footer .row {
 .footer-right{
   text-align: right;
   font-size: 120%;
-	padding: 30px 50px 20px 0px;
+	padding: 30px 80px 20px 0px;
 }
 
 ul {
