@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-size: 30px;
   color: #fff;
-  background-color: rgb(93, 153, 255);
+  background-color: #70cccc;
 }
 
 main {
@@ -81,6 +81,13 @@ border-radius: 10%;
   border: solid 3px #6091d3;
 }
 
+@media screen and (max-width: 480px){
+	.reasion {
+	margin-top: 30px;
+	padding: 0px 10px;
+}
+}
+
 footer .row {
   background: #fff;
 }
@@ -108,13 +115,12 @@ ul {
 @media screen and (max-width: 1024px) {
 	.footer-left{
 	padding: 30px 0px 30px 10px;
-	font-size: 75%;
-
+	font-size: 85%;
 	}
 
 	.footer-right{
 	text-align: right;
 	padding: 20px 10px 20px 0px;
-	font-size: 75%;
+	font-size: 85%;
 	}
 }
