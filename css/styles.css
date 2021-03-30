@@ -7,9 +7,10 @@ body {
 
 .top-message {
   text-align: center;
-  font-size: 30px;
+  font-size: 28px;
   color: #fff;
-  background-color: #70cccc;
+  background-color: #69cece;
+  
 }
 
 main {
@@ -95,8 +96,7 @@ footer .row {
 .footer-wrapper{
 	display: flex;
 	margin-top: 80px;
-	border-top: 1px solid gray;
-  background-color: #70cccc;
+  background-color: #69cece;
   color: #fff;
 }
 
