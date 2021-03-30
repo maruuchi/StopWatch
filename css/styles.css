@@ -5,6 +5,10 @@ body {
   width: 100%;
 }
 
+.wrap {
+     overflow: hidden;
+ }
+ 
 .top-message {
   text-align: center;
   font-size: 28px;
@@ -16,10 +20,12 @@ body {
 main {
   margin-top: 70px;
   background: #eee;
+  width: 100%;
 }
 
 .row {
   background :#eee;
+  
 }
 
 .container {
