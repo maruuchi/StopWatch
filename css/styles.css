@@ -8,7 +8,7 @@ body {
 .wrap {
      overflow: hidden;
  }
- 
+
 .top-message {
   text-align: center;
   font-size: 28px;
@@ -81,18 +81,16 @@ border-radius: 10%;
 }
 
 .reasion {
-  margin-top: 30px;
-  margin-left: 100px;
+  margin: 30px;
   padding: 15px;
   border-radius: 10px;
   border: solid 3px #6091d3;
 }
 
-@media screen and (max-width: 480px){
-	.reasion {
-	margin-top: 30px;
-	padding: 0px 10px;
-}
+@media screen and (max-width: 1024px) {
+  .reasion {
+    margin-right: 15px;
+  }
 }
 
 footer .row {
