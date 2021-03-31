@@ -70,8 +70,8 @@ main {
 
 .btn#reset{
   font-weight: bold;
-border-radius: 10%;
-background-color: #fff;
+  border-radius: 10%;
+  background-color: #fff;
 }
 
 .controls {
