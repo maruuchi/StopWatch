@@ -13,7 +13,7 @@ body {
   text-align: center;
   font-size: 28px;
   color: #fff;
-  background-color: #69cece;
+  background-color: #3ac2c2;
   
 }
 
@@ -100,7 +100,7 @@ footer .row {
 .footer-wrapper{
 	display: flex;
 	margin-top: 80px;
-  background-color: #69cece;
+  background-color: #3ac2c2;
   color: #fff;
 }
 
