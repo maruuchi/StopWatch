@@ -6,8 +6,8 @@ body {
 }
 
 .wrap {
-     overflow: hidden;
- }
+  overflow: hidden;
+}
 
 .top-message {
   text-align: center;
@@ -23,6 +23,7 @@ main {
 }
 
 .row {
+  padding-left: 80px;
   background :#eee;
 }
 
@@ -95,6 +96,10 @@ main {
   .reasion {
     margin-right: 15px;
   }
+}
+
+.row-footer {
+  background :#eee;
 }
 
 footer .row {
