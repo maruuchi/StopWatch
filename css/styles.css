@@ -13,8 +13,7 @@ body {
   text-align: center;
   font-size: 28px;
   color: #fff;
-  background-color: #3ac2c2;
-  
+  background-color: #69cece;
 }
 
 main {
@@ -25,7 +24,6 @@ main {
 
 .row {
   background :#eee;
-  
 }
 
 .container {
@@ -57,17 +55,23 @@ main {
 }
 
 .btn#start{
+  font-weight: bold;
   color: red;
   border-radius: 10%;
+  background-color: #fff;
 }
 
 .btn#stop {
+  font-weight: bold;
   color: blue;
   border-radius: 10%;
+  background-color: #fff;
 }
 
 .btn#reset{
+  font-weight: bold;
 border-radius: 10%;
+background-color: #fff;
 }
 
 .controls {
@@ -100,7 +104,7 @@ footer .row {
 .footer-wrapper{
 	display: flex;
 	margin-top: 80px;
-  background-color: #3ac2c2;
+  background-color: #69cece;
   color: #fff;
 }
 
