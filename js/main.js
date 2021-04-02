@@ -65,7 +65,7 @@
       return;
     }
     setButtonStateInitial();
-    timer.textContent = '00:00:000';
+    timer.textContent = '00:00.000';
     elapsedTime = 0;
   });
 }

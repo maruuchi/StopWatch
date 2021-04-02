@@ -47,7 +47,6 @@ main {
   line-height: 120px;
   font-size: 45px;
   margin-bottom: 15px;
-  border-radius: 50%;
   font-style: inherit;
   color: #fff;
 }
@@ -83,7 +82,7 @@ main {
 .controls {
   display: flex;
   justify-content: space-between;
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .inactive {
@@ -96,6 +95,7 @@ main {
   border-radius: 10px;
   border: solid 3px #6091d3;
   background-color: rgb(255, 255, 255);
+  font-size: 18px;
 }
 
 @media screen and (max-width: 1024px) {
