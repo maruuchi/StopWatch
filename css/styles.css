@@ -48,6 +48,7 @@ main {
   font-size: 45px;
   margin-bottom: 15px;
   font-style: inherit;
+  font-family:monospace;
   color: #fff;
 }
 
