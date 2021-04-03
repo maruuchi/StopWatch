@@ -61,22 +61,26 @@ main {
 
 .btn#start{
   font-weight: bold;
-  color: red;
+  color: #fff;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: red;
+  padding-top: 10px;
 }
 
 .btn#stop {
   font-weight: bold;
-  color: blue;
+  color: #fff;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: blue;
+  padding-top: 10px;
 }
 
 .btn#reset{
   font-weight: bold;
+  color: #fff;
   border-radius: 50%;
-  background-color: #fff;
+  background-color: black;
+  padding-top: 10px;
 }
 
 .controls {
