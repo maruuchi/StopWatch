@@ -60,6 +60,15 @@ main {
   cursor: pointer;
 }
 
+@media screen and (max-width: 1024px) {
+  .btn {
+    width: 80px;
+    height: 45px;
+    line-height: 45px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+}
 .btn#start{
   font-weight: bold;
   color: #fff;
