@@ -15,7 +15,7 @@
 ## Reference
 
 <h1>筆者</h1>
-[twitter](https://twitter.com/MaruSo_career)
+<p><a href="https://twitter.com/MaruSo_career" class="twitter" target="_blank">Twitter</a></p>
 
 <h1>ライセンス</h1>
 <p>This project is licensed free.</p>
