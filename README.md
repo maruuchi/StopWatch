@@ -1,18 +1,14 @@
 <h1>名前</h1>
 ストップウォッチ
 
-## Overview
-
-## Requirement
+<h1>概要</h1>
+ストップウォッチアプリです。
+家でのトレーニングのために作成しました。
 
 <h1>使い方</h1>
-<p>STARTボタンを押すと数字が動き出します。</p>
-<p>止めたい場合はSTOPボタンを押してください</p>
-<p>最初に戻したい場合はRESETボタンを押してください</p>
-
-## Features
-
-## Reference
+<p>1.「START」ボタンを押すと数字が動き出します</p>
+<p>2.止めたい場合は「STOP」ボタンを押してください</p>
+<p>3.最初に戻したい場合は「RESET」ボタンを押してください</p>
 
 <h1>筆者</h1>
 <p><a href="https://twitter.com/MaruSo_career" class="twitter" target="_blank">Twitter</a></p>
