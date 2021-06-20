@@ -105,14 +105,13 @@ main {
 
 .use-management {
   margin: 30px;
-  padding: 35px;
-  border: solid 3px #6091d3;
   background-color: rgb(145, 203, 241);
   font-size: 18px;
 }
 
-.use-management p {
-  background-color: white;
+.use-management .use-role {
+  width: 100%;
+  background-color: rgb(255, 255, 255);
 }
 
 
