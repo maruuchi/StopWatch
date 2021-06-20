@@ -107,9 +107,15 @@ main {
   margin: 30px;
   padding: 35px;
   border: solid 3px #6091d3;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(145, 203, 241);
   font-size: 18px;
 }
+
+.use-management p {
+  background-color: white;
+}
+
+
 
 @media screen and (max-width: 1024px) {
   .use-management {
