@@ -111,9 +111,10 @@ main {
 }
 
 .use-management .use-role {
+  font-weight: bold;
   width: 100%;
   background-color: rgb(255, 255, 255);
-  text-align: center 
+  text-align: center
 }
 
 
