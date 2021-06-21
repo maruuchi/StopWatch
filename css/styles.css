@@ -107,6 +107,7 @@ main {
   margin: 30px;
   background-color: rgb(145, 203, 241);
   font-size: 18px;
+  border-radius: 10px;
 }
 
 .use-management .use-role {
