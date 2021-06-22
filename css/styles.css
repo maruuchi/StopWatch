@@ -109,7 +109,7 @@ main {
   font-size: 18px;
 }
 
-.use-management .use-role {
+.use-role {
   font-weight: bold;
   height: 40px;
   width: 100%;
@@ -117,7 +117,9 @@ main {
   text-align: center
 }
 
-
+.use-describe {
+  height: 100％;
+}
 
 @media screen and (max-width: 1024px) {
   .use-management {
