@@ -107,6 +107,7 @@ main {
   margin: 30px;
   background-color: rgb(145, 203, 241);
   font-size: 18px;
+  height: 200px;
 }
 
 .use-role {
@@ -118,7 +119,7 @@ main {
 }
 
 .use-describe {
-  height: 100％;
+  padding-left: 30px;
 }
 
 @media screen and (max-width: 1024px) {
