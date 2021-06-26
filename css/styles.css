@@ -14,6 +14,8 @@ body {
   font-size: 28px;
   color: #fff;
   background-color: #69cece;
+  height: 50px;
+  padding-top: 5px;
 }
 
 main {
