@@ -133,6 +133,13 @@ main {
   }
 }
 
+@media screen and (max-width:768px) {
+/*スマホ用のcssを記述*/
+  .use-describe {
+    padding-top: 20px;
+    font-size: 16px;
+  }
+}
 .row-footer {
   background :#eee;
 }
