@@ -127,11 +127,7 @@ main {
   font-size: 18px;
 }
 
-@media screen and (max-width: 1024px) {
-  .use-management {
-    margin-right: 15px;
-  }
-}
+
 
 @media screen and (max-width:768px) {
 /*スマホ用のcssを記述*/
