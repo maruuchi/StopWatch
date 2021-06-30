@@ -134,28 +134,14 @@ main {
     font-size: 16px;
   }
 }
-.row-footer {
+
+/* フッターを記述 */
+
+.footer {
   background :#eee;
-}
-
-footer .row {
-  background: #fff;
-}
-
-.footer-wrapper{
-	display: flex;
-	margin-top: 80px;
+  text-align: center;
+  margin-top: 90px;
   background-color: #69cece;
-  color: #fff;
-}
-
-.footer-left{
-  padding: 40px 0px 30px 80px;
-}
-
-.footer-right{
-  text-align: right;
-	padding: 30px 80px 20px 0px;
 }
 
 ul {
