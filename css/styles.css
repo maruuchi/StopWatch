@@ -138,7 +138,8 @@ main {
 /* フッターを記述 */
 
 .footer {
-  background :#eee;
+  font-size: 16px;
+  color: rgb(255, 255, 255);
   text-align: center;
   margin-top: 90px;
   background-color: #69cece;
