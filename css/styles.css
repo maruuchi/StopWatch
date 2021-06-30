@@ -127,8 +127,6 @@ main {
   font-size: 18px;
 }
 
-
-
 @media screen and (max-width:768px) {
 /*スマホ用のcssを記述*/
   .use-describe {
@@ -175,4 +173,15 @@ ul {
 	padding: 20px 10px 20px 0px;
 	font-size: 85%;
 	}
+}
+
+@media screen and (max-width:768px) {
+
+  .footer-left {
+    text-align: center
+  }
+
+  .footer-right{
+    text-align: center
+  }
 }
