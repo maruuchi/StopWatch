@@ -128,7 +128,9 @@ main {
 }
 
 @media screen and (max-width:768px) {
+
 /*スマホ用のcssを記述*/
+
   .use-describe {
     padding-top: 20px;
     font-size: 16px;
@@ -144,6 +146,7 @@ main {
   margin-top: 90px;
   background-color: #69cece;
   height: 50px;
+  padding-top: 10px;
 }
 
 ul {
