@@ -149,7 +149,9 @@ main {
   padding-top: 10px;
 }
 
-
+li {
+  list-style: none;
+}
 
 @media screen and (max-width: 1024px) {
 	.footer-left{
