@@ -152,19 +152,6 @@ li {
   list-style: none;
 }
 
-@media screen and (max-width: 1024px) {
-	.footer-left{
-	padding: 30px 0px 30px 10px;
-	font-size: 85%;
-	}
-
-	.footer-right{
-	text-align: right;
-	padding: 20px 10px 20px 0px;
-	font-size: 85%;
-	}
-}
-
 @media screen and (max-width:768px) {
 
 }
