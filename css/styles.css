@@ -63,7 +63,7 @@ main {
 
 @media screen and (max-width: 1024px) {
   .btn {
-    width: 80px;
+    width: 100px;
     height: 45px;
     line-height: 45px;
     font-weight: bold;
@@ -94,6 +94,17 @@ main {
   background-color: black;
   padding-top: 10px;
 }
+
+@media screen and (max-width:1024px) {
+  .btn#start{
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: red;
+    padding-top: 10px;
+  }
+}
+
 
 .controls {
   display: flex;
@@ -152,6 +163,6 @@ li {
   list-style: none;
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:1024px) {
 
 }
