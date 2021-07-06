@@ -102,6 +102,24 @@ main {
     border-radius: 50%;
     background-color: red;
     padding-top: 10px;
+    margin-right: 10px;
+  }
+
+  .btn#stop {
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: blue;
+    padding-top: 10px;
+  }
+
+  .btn#reset{
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: black;
+    padding-top: 10px;
+    margin-left: 10px;
   }
 }
 
