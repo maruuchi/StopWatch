@@ -123,6 +123,33 @@ main {
   }
 }
 
+@media screen and (max-width: 599px) {
+  .btn#start {
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: red;
+    padding-top: 10px;
+    margin-right: 10px;
+  }
+
+  .btn#stop {
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: blue;
+    padding-top: 10px;
+  }
+
+  .btn#reset{
+    font-weight: bold;
+    color: #fff;
+    border-radius: 50%;
+    background-color: black;
+    padding-top: 10px;
+    margin-left: 10px;
+  }
+}
 
 .controls {
   display: flex;
@@ -177,7 +204,7 @@ main {
   padding-top: 10px;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width: 599px) {
   .footer {
     font-size: 14px;
   }
