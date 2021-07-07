@@ -177,10 +177,13 @@ main {
   padding-top: 10px;
 }
 
+@media screen and (max-width:1024px) {
+  .footer {
+    font-size: 14px;
+  }
+}
+
 li {
   list-style: none;
 }
 
-@media screen and (max-width:1024px) {
-
-}
