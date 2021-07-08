@@ -167,6 +167,16 @@ main {
   height: 200px;
 }
 
+@media screen and (max-width: 599px) {
+  .use-management {
+    width: 90%;
+    margin: 30px;
+    background-color: rgb(145, 203, 241);
+    height: 200px;
+    text-align: center;
+  }
+}
+
 .use-role {
   font-weight: bold;
   height: 50px;
