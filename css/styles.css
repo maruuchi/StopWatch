@@ -28,11 +28,6 @@ main {
   background :rgb(201, 201, 201);
 }
 
-@media screen and (max-width: px) {
-  .row {
-    background :rgb(180, 180, 180);
-  }
-}
 .container {
   margin: 0px auto;
   width: 400px;
