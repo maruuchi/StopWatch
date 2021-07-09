@@ -66,7 +66,7 @@ main {
   }
 }
 
-.btn#start{
+.btn#start {
   font-weight: bold;
   color: #fff;
   border-radius: 50%;
@@ -82,7 +82,7 @@ main {
   padding-top: 10px;
 }
 
-.btn#reset{
+.btn#reset {
   font-weight: bold;
   color: #fff;
   border-radius: 50%;
@@ -90,7 +90,7 @@ main {
   padding-top: 10px;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width: 1024px) {
   .btn#start{
     font-weight: bold;
     color: #fff;
@@ -136,7 +136,7 @@ main {
     padding-top: 10px;
   }
 
-  .btn#reset{
+  .btn#reset {
     font-weight: bold;
     color: #fff;
     border-radius: 50%;
