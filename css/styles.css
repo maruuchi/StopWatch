@@ -222,7 +222,7 @@ main {
   }
 }
 
-li {
-  list-style: none;
+p {
+  text-align:left;
 }
 
