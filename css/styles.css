@@ -164,11 +164,11 @@ main {
 
 @media screen and (max-width: 599px) {
   .use-management {
+    text-align: center;
     width: 90%;
     margin: 30px;
     background-color: rgb(145, 203, 241);
     height: 200px;
-    text-align: center;
   }
 }
 
