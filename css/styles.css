@@ -191,6 +191,7 @@ main {
 @media screen and (max-width: 599px) {
   .use-describe {
     padding: initial;
+    margin-left: 10px;
   }
 }
 
