@@ -162,16 +162,6 @@ main {
   text-align: center;
 }
 
-@media screen and (max-width: 599px) {
-  .use-management {
-    text-align: center;
-    width: 90%;
-    margin: 30px;
-    background-color: rgb(145, 203, 241);
-    height: 200px;
-  }
-}
-
 .use-role {
   font-weight: bold;
   height: 50px;
@@ -180,6 +170,23 @@ main {
   font-size: 20px;
   background-color: rgb(255, 255, 255);
   text-align: center
+}
+
+@media screen and (max-width: 599px) {
+  .use-management {
+    text-align: center;
+    background-color: rgb(145, 203, 241);
+    height: 200px;
+  }
+
+  .use-role {
+    font-weight: bold;
+    height: 50px;
+    width: 100%;
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+  }
 }
 
 .use-describe {
@@ -192,19 +199,10 @@ main {
   .use-describe {
     padding: initial;
     margin-left: 10px;
-  }
-}
-
-@media screen and (max-width : 599px) {
-/*スマホ用のcssを記述*/
-
-  .use-describe {
     padding-top: 20px;
     font-size: 16px;
   }
 }
-
-/* フッターを記述 */
 
 .footer {
   font-size: 16px;
@@ -215,7 +213,6 @@ main {
   height: 50px;
   padding-top: 10px;
 }
-
 
 @media screen and (max-width: 599px) {
   .footer {
