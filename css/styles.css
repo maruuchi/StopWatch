@@ -55,7 +55,7 @@ main {
   cursor: pointer;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 960px) {
   .btn {
     width: 100px;
     height: 45px;
@@ -89,7 +89,7 @@ main {
   padding-top: 10px;
 }
 
-@media screen and (max-width: 959px) {
+@media screen and (max-width: 960px) {
   .btn#start{
     font-weight: bold;
     color: #fff;
