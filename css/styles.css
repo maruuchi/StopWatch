@@ -156,10 +156,16 @@ main {
 }
 
 .use-management {
-  margin: 30px 20px  30px;
+  margin: 30px 20px 30px;
   background-color: rgb(145, 203, 241);
   height: 200px;
   text-align: center;
+}
+
+@media screen and (max-width: 960px) {
+  .use-management {
+   margin: 30px 0 0 0 ;
+  }
 }
 
 .use-role {
